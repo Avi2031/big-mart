@@ -6,3 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from xgboost import XGBRegressor
 from sklearn import metrics
+
+
+# Load BigMart sales data to a Pandas DataFrame
+data = pd.read_csv('data/train.csv')
