@@ -6,5 +6,5 @@ Machine Learning model for BigMart sales prediction.
 2. pandas
 3. matplotlib
 4. seaborn
-5. sklearn
+5. scikit-learn
 6. xgboost
